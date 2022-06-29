@@ -1,9 +1,13 @@
+a link
+[link to main page](../)
+
 <details>
-  <summary>example things</summary>
+  <summary>a collapsable example</summary>
   
-  this stuff is shown later
+  this hidden stuff can be shown or hidden
 </details>
 
+an embed example
 <iframe src="https://codesandbox.io/embed/jsintro-cxl0x?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="jsintro"
