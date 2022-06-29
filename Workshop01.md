@@ -33,12 +33,14 @@ Generally we provide codesandbox links for a *here's what we are building* examp
 
 We're going to make this little silly thing as our first project:
 [![jsintro](images/WS1jsintro.png)](https://codesandbox.io/s/jsintro-cxl0x)
+
 https://codesandbox.io/s/jsintro-cxl0x
 
 **Where code is provided, you are expected to write it out yourself rather than copying and pasting it. We know this is tempting, but the point of a university education is for you to learn the necessary skills for your field, and copying and pasting code will not be on any job descriptions.**
 
 Take a look around the starter codesandbox we created below:
 [![jsintrostarter](images/WS1jsintrostarter.png)](https://codesandbox.io/s/jsintrostarter-980ki)
+
 https://codesandbox.io/s/jsintrostarter-980ki
  
 You should be able to see that there are tabs across the top with various different file names: `index.js`; `package.json`; `styles.css` and `index.html`.
