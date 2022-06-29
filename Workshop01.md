@@ -28,15 +28,19 @@ Think of the most important or most inspiring 3 things that you learned related 
 Present to the other groups! Order tbd in the class session...
 
 ## Task 4 - Dipping Our Toes into Codesandbox
-Right, so let's try editing our first codesandbox project to acquaint ourselves with the environment.  We're going to make this little silly thing as our first project:
+Right, so let's try editing our first codesandbox project to acquaint ourselves with the environment. 
 
+For the rest of the semester you will be working in multiple browser windows for these worksheets.
+Generally we provide codesandbox links for a *here's what we are building* example and a *starting point* for you to build up from.
+
+We're going to make this little silly thing as our first project:
 [![jsintro](images/WS1jsintro.png)](https://codesandbox.io/s/jsintro-cxl0x)
+https://codesandbox.io/s/jsintro-cxl0x
 
-You will be working in two browser windows for these worksheets, generally we provide both a *here's what we are building* example and a starting template (see below).
 
-Take a look around the starter codesandbox we created below. 
-
+Take a look around the starter codesandbox we created below:
 [![jsintrostarter](images/WS1jsintrostarter.png)](https://codesandbox.io/s/jsintrostarter-980ki)
+https://codesandbox.io/s/jsintrostarter-980ki
  
 You should be able to see that there are tabs across the top with various different file names: `index.js`; `package.json`; `styles.css` and `index.html`.
 
