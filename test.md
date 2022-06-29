@@ -1,5 +1,5 @@
 a link
-[link to main page](../)
+[link to a workshop](WS01)
 
 <details>
   <summary>a collapsable example</summary>
