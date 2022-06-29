@@ -1,27 +1,25 @@
 # Workshop 01
 ## Hello and welcome!
 
-This first workshop will get you up to speed with interacting with your peers, and some internet fundamentals. In this workshop we will:</p>
- * Talk to each other about our past experiences
- * Share knowledge with our peers 
- * Play about with some basic HTML/CSS/JS 
- * Edit our first project in codesandbox
- * Make a basic bleepy button website
-
-**Where code is provided, you are expected to write it out yourself rather than copying and pasting it. We know this is tempting, but the point of a university education is for you to learn the necessary skills for your field, and copying and pasting code will not be on any job descriptions.**
+This first workshop will get you up to speed with interacting with your peers, and some internet fundamentals. In this workshop we will:
+ - Talk to each other about our past experiences
+ - Share knowledge with our peers 
+ - Play about with some basic HTML/CSS/JS 
+ - Edit our first project in codesandbox
+ - Make a basic bleepy button website
 
 ## Task 1 - Top Three Things
 ### Cast your mind back to the wonderful time we all had last year...!
 Think of the most important or most inspiring 3 things that you learned related to:
- * creative coding
- * graphic and web design
- * introductory audio programming 
- * audio technology 
+ - creative coding
+ - graphic and web design
+ - introductory audio programming 
+ - audio technology 
 
 ## Task 2 - A Group Decision
 ### Get into groups of 3-4
-* Talk to each other about your respective Top Three
-* Through a democratic process, decide on the most important two things - if you are a mixed DM and MT group then pick one from each discipline
+- Talk to each other about your respective Top Three
+- Through a democratic process, decide on the most important two things - if you are a mixed DM and MT group then pick one from each discipline
 
 ## Task 3 - Quickfire Presentation
 ### Create a short presentation on powerpoint or keynote detailing all the relevant information about the two most important things you learned from last year
@@ -37,6 +35,7 @@ We're going to make this little silly thing as our first project:
 [![jsintro](images/WS1jsintro.png)](https://codesandbox.io/s/jsintro-cxl0x)
 https://codesandbox.io/s/jsintro-cxl0x
 
+**Where code is provided, you are expected to write it out yourself rather than copying and pasting it. We know this is tempting, but the point of a university education is for you to learn the necessary skills for your field, and copying and pasting code will not be on any job descriptions.**
 
 Take a look around the starter codesandbox we created below:
 [![jsintrostarter](images/WS1jsintrostarter.png)](https://codesandbox.io/s/jsintrostarter-980ki)
