@@ -7,6 +7,22 @@ a link
   this hidden stuff can be shown or hidden
 </details>
 
+<details>
+  <summary>collapsable codeblock</summary>
+  
+```javascript
+step() 
+{
+ // generate a position relative to the current one
+ let axis = THREE.MathUtils.randInt(1, 3);
+ let amnt = THREE.MathUtils.randInt(-1, 1);
+ if (axis === 1) this.x += amnt;
+ if (axis === 2) this.y += amnt;
+ if (axis === 3) this.z += amnt;
+}
+```
+</details>
+
 an embed example
 <iframe src="https://codesandbox.io/embed/jsintro-cxl0x?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
