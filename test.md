@@ -7,8 +7,8 @@ a link
   this hidden stuff can be shown or hidden
 </details>
 
-<details>
-  <summary>collapsable codeblock</summary>
+<details markdown="1">
+<summary>collapsable codeblock</summary>
   
 ```javascript
 step() 
@@ -21,6 +21,7 @@ step()
  if (axis === 3) this.z += amnt;
 }
 ```
+
 </details>
 
 an embed example
