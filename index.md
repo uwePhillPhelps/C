@@ -16,5 +16,5 @@ Scroll down to find a list of workshops.
 - Week 07 - project kickstart ⤴️
 - [Week 08](WS06) dj sprinkles
 - [Week 09](WS07) states
-- [Week 10 - optional](WS08) optional
-- [Week 11 - optional](WS09) optional
+- [Week 10](WS08) optional!
+- [Week 11](WS09) optional!
