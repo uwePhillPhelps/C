@@ -7,14 +7,14 @@ Scroll down to find a list of workshops.
 ![welcome image](images/CPC_Splash-01.png)
 
 # Workshop materials
-- [Week 01](WS01)
-- [Week 02](WS02)
-- [Week 03](WS03)
-- [Week 04](WS04)
-- Week 05 - pause for catchup 🍅
-- [Week 06](WS06)
+- [Week 01](WS01) tools
+- [Week 02](WS02) hello cube
+- [Week 03](WS03) walker
+- [Week 04](WS04) mover
+- [Week 05](WS05) gltf
+- Week 06 - pause for catchup 🍅
 - Week 07 - project kickstart ⤴️
-- [Week 08](WS08)
-- [Week 09](WS09)
-- [Week 10 - optional](WS10)
-- [Week 11 - optional](WS11)
+- [Week 08](WS06) dj sprinkles
+- [Week 09](WS07) states
+- [Week 10 - optional](WS08) optional
+- [Week 11 - optional](WS09) optional
