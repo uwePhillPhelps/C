@@ -15,6 +15,6 @@ Scroll down to find a list of workshops.
 - Week 06 - pause for catchup 🍅
 - Week 07 - project kickstart ⤴️
 - [Week 08](WS06) dj sprinkles
-- [Week 09](WS07) states
+- [Week 09](WS07) state machines
 - [Week 10](WS08) optional!
 - [Week 11](WS09) optional!
