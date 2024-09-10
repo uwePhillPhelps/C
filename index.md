@@ -1,4 +1,4 @@
-# Hello and Welcome to CPC 2023-2024!
+# Hello and Welcome to CPC 2024_25!
 
 Here you will find the workshop materials with embedded code examples to help your learning and development on semester one of Creative and Physical Computing.
 
