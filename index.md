@@ -12,8 +12,8 @@ Scroll down to find a list of workshops.
 - [Week 03](WS03) walker
 - [Week 04](WS04) mover
 - [Week 05](WS05) gltf
-- Week 06 - pause for catchup 🍅
-- Week 07 - project kickstart ⤴️
+- Week 06 - project kickstart ⤴️
+- Week 07 - pause for catchup 🍅
 - [Week 08](WS06) dj sprinkles
 - [Week 09](WS07) state machines
 - [Week 10](WS08) optional!
